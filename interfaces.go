@@ -1,13 +1,14 @@
 package dsextensions
 
 import (
-	"github.com/ipfs/go-datastore"
-	"github.com/ipfs/go-datastore/query"
+	"github.com/daotl/go-datastore"
+	"github.com/daotl/go-datastore/key"
+	"github.com/daotl/go-datastore/query"
 )
 
 type QueryExt struct {
 	query.Query
-	SeekPrefix string
+	SeekPrefix key.Key
 }
 
 type TxnExt interface {
