@@ -1,6 +1,6 @@
 # go-datastore-extensions
 
-DAOT Labs's fork of [textileio/go-datastore-extensions](https://github.com/textileio/go-datastore-extensions).
+DAOT Labs' fork of [textileio/go-datastore-extensions](https://github.com/textileio/go-datastore-extensions).
 
 [![Made by Textile](https://img.shields.io/badge/made%20by-Textile-informational.svg?style=popout-square)](https://textile.io)
 [![GitHub license](https://img.shields.io/github/license/daotl/go-datastore-extensions.svg?style=popout-square)](./LICENSE)
